@@ -5,6 +5,7 @@
 #Given nums = [2, 7, 11, 15], target = 9,
 #Because nums[0] + nums[1] = 2 + 7 = 9,
 #return [0, 1].
+#时间复杂度 O（n²）
 class Solution():
     def twoSum(nums, target):
         nums=list(nums)
