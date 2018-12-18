@@ -52,3 +52,4 @@ _______________________________
 Solution().twoSum([2,7,11,15],9)# Solution不带括号表示类引用，带括号表示创建对象，对象的引用
 
 #LeetCode是系统预定包在类里面，所以需要区分一下。自己用notebook不用包在类里面
+#关于类和对象：https://www.cnblogs.com/magicking/p/8971740.html
